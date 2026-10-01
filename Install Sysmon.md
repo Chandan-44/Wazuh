@@ -1,4 +1,4 @@
-Here are the step-by-step instructions from **"How to Install Sysmon for Advanced Windows Security Logging"** (Part 05) by Usman Rajput:
+Here are the step-by-step instructions from **"How to Install Sysmon for Advanced Windows Security Logging"** :
 
 1. **Download Sysmon from Microsoft Sysinternals:** Prerequisite setup.
 1. Visit the official **Microsoft Sysinternals** page for Sysmon.
